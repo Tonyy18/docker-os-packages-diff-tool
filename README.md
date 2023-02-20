@@ -1,6 +1,6 @@
 # docker-os-packages-diff-tool
 
-<p>This tool is made for visualizing the different of installed packages in two docker containers.<p>
+<p>This tool is made for visualizing the difference of installed packages in two docker containers.<p>
 <p>The tool works only for centos containers for now!</p>
 <p>Usage is very simple</p>
 

@@ -9,5 +9,5 @@ python packages-diff-tool.py container container2
 ```
 
 <p>Additional parameters</p>
-<b>-m</b><span>Display only missing packages</span>
-<b>-d</b><span>Display only different of package versions</span>
+<p><b>-m</b><span> display only missing packages</span></p>
+<p><b>-d</b><span> display only different of package versions</span></p>
